@@ -30,6 +30,9 @@
               <a class="nav-link text-white" href="services.php">SERVICES</a>
             </li>
             <li class="nav-item mr-5">
+              <a class="nav-link text-white" href="services.php">FREE TRIAL</a>
+            </li>
+            <li class="nav-item mr-5">
               <button class="nav-link text-white bg-danger px-2" id="togglerBtn" style="border:0;">TOGGLE BOXES</button>
             </li>
           </ul>
