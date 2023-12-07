@@ -4,6 +4,7 @@
        ['email' => 'noemi@gmail.com', 'password' => '12345'],
        ['email' => 'nde@gmail.com', 'password' => 'nde'],
        ['email' => 'yoo@gmail.com', 'password' => 'yooG'],
+       ['email' => 'camilamougang@gmail.com', 'password' => '12345'],
    ];
 
    //Submittig the form

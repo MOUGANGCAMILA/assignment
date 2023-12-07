@@ -12,6 +12,8 @@
        [ 'title' => 'orange', 'image' => 'images/image.jpg' ],
        [ 'title' => 'banana', 'image' => 'images/image.jpg' ],
        [ 'title' => 'cocoa', 'image' => 'images/image.jpg' ],
+       [ 'title' => 'cocoa', 'image' => 'images/image.jpg' ],
+       [ 'title' => 'cocoa', 'image' => 'images/image.jpg' ],
    ];
 ?>
 
